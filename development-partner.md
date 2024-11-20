@@ -1,0 +1,3 @@
+# 👥 Development partner
+
+<table data-view="cards"><thead><tr><th></th><th data-type="files"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="https://t.me/Akiracong">Mr. Cong Minh</a></td><td></td><td><a href=".gitbook/assets/Cong Minh (1).png">Cong Minh (1).png</a></td></tr><tr><td><a href="https://t.me/Sarangoc01">Ms. Sarangoc</a></td><td></td><td><a href=".gitbook/assets/Sarangoc.png">Sarangoc.png</a></td></tr><tr><td><a href="https://t.me/Dan_Ngo">Mr. Dan Ngo</a></td><td></td><td><a href=".gitbook/assets/Dan Ngo (1).png">Dan Ngo (1).png</a></td></tr><tr><td><a href="https://t.me/Vananh71">Ms. Dang Thi Van Anh</a></td><td></td><td><a href=".gitbook/assets/Anh Dang.png">Anh Dang.png</a></td></tr></tbody></table>
